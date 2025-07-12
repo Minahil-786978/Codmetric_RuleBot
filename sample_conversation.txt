@@ -1,5 +1,4 @@
-                   			                           				  OUTPUT OF RULEBOT
-
+                   			                 OUTPUT OF RULEBOT
 
 Bot: 👋 Welcome! I'm RuleBot 2.0.
 You:  good morning
