@@ -1,0 +1,20 @@
+                   			                           				  OUTPUT OF RULEBOT
+
+
+Bot: 👋 Welcome! I'm RuleBot 2.0.
+You:  good morning
+Bot:  Good morning! I hope you have a productive day ahead.
+You:  how can you assist me?
+Bot:  I can assist with greetings, share the current time and date, provide basic facts, respond to general queries, and more.
+You:  what time is it?
+Bot:  The current time is 03:22 PM.
+You:  define ai
+Bot:  Artificial Intelligence refers to the simulation of human intelligence by machines.
+You:  tell me a fact
+Bot:  Here’s a fact: The Eiffel Tower can be 15 cm taller during hot days due to thermal expansion.
+You:  what day is it?
+Bot:  Today is Saturday, July 12, 2025.
+You:  it was nice chatting with you. bye!
+Bot:  Goodbye! Feel free to reach out again anytime.
+You:  goodbye
+Bot:  Goodbye! Feel free to reach out again anytime.
